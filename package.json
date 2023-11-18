@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FadiZahhar/packagedemo/issues"
   },
-  "homepage": "https://github.com/FadiZahhar/packagedemo#readme"
+  "homepage": "https://github.com/FadiZahhar/packagedemo#readme",
+  "publishConfig": {
+    "@FadiZahhar:registry": "https://npm.pkg.github.com"
+  }
 }
